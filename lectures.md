@@ -31,7 +31,7 @@
 | 7 | Auto Grad and Auto Encoders | [Lecture 7](Lectures/Lecture_7_annotated.pdf) |
 | 8 | MLP for Product Recs | [Lecture 8](Lectures/Lecture_8_annotated.pdf) |
 | 9 | News Recommendations Case Study| [Lecture 9](Lectures/Lecture_9_annotated.pdf) |
-| 10 | Ranking and Recommendations | [Lecture 10] (Lectures/Lecture_10_annotated.pdf) |
+| 10 | Ranking and Recommendations | [Lecture 10](Lectures/Lecture_10_annotated.pdf) |
 
 
 ### Guest Lectures
