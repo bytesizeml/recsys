@@ -12,6 +12,12 @@
 
 ***
 
+
+| [Home](index.md)  | [Home](file_1.md)       | [Home](file_2.md)      |
+
+
+***
+
 ### Course Syllabus
 
 ***
@@ -53,6 +59,9 @@
 *** 
 
 1. Khalifeh Al Jadda (Director at Google). [YouTube Lecture Recording](https://www.youtube.com/watch?v=5Pa9NN_uRYg&t=1s)
+
+
+### References
 
 
 ### Markdown
