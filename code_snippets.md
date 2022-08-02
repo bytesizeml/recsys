@@ -11,7 +11,7 @@
 
 ***
 
-| [Home](index.md)  | [Home](file_1.md)       | [Home](file_2.md)      |
+| [Home](index.md)  | [Lectures](lectures.md)       | [Code Snippets](code_snippets.md)      |
 
 
 ***
