@@ -23,9 +23,9 @@
 
 | Lecture | Lecture Topic | Annotated Lecture |
 | :--- | :----: | :---: |
-| 1 | Introduction | |
-| 2 | Baseline Models | |
-| 3 | Matrix Factorization Models | |
+| 1 | Introduction | [Lecture 1](Lectures/Lecture_1_annotated.pdf) |
+| 2 | Recommender System Baselines | [Lecture 2](Lectures/Lecture_2_annotated.pdf |
+| 3 | SVD and other baselines | [Lecture 3](Lectures/Lecture_3_annotated.pdf) |
 | 4 | | |
 
 
