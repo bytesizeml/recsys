@@ -12,16 +12,25 @@
 1. Introduction and Applications
 1. Baseline models for Recommender Systems
 1. Matrix Factorization and Matrix Completion models
-2. Applications in product, movie and news recommendations
-2. Auto Encoder models - AutoRec, DeepRec, etc
-2. Multi Layer Perceptron and Deep Neural Network Models
-- Recommendations-Ranking Models
-- Applications and architecture of YouTube, Pinterest, Instagram recommendations
-- Search Ranking Models
+1. Applications in product, movie and news recommendations
+1. Auto Encoder models - AutoRec, DeepRec, etc
+1. Multi Layer Perceptron and Deep Neural Network Models
+1. Recommendations-Ranking Models
+1. Applications and architecture of YouTube, Pinterest, Instagram recommendations
+1. Search Ranking: Learning to rank, Ranking Loss, Ranking metrics
+1. Neural models for Search Ranking
 
-You can use the [editor on GitHub](https://github.com/bytesizeml/recsys/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Course Assesments
+
+1. Conceptual Assignments
+1. Programming Assignments
+1. Final project (open ended)
+
+
+### Guest Lectures
+1. Khalifeh Al Jadda (Director at Google). [YouTube Lecture Recording](https://www.youtube.com/watch?v=5Pa9NN_uRYg&t=1s)
+
 
 ### Markdown
 
