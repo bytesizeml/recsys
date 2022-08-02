@@ -33,7 +33,7 @@
 
 *** 
 
-1. Khalifeh Al Jadda (Director at Google). <a href="https://www.youtube.com/watch?v=5Pa9NN_uRYg&t=1s" target="_blank">YouTube Lecture Recording </a>
+1. Khalifeh Al Jadda (Director at Google). <a href="https://www.youtube.com/watch?v=5Pa9NN_uRYg&t=1s" target="_blank">YouTube Lecture Recording!</a>
 
 
 
