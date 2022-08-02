@@ -8,11 +8,13 @@
 ***
 
 
-## Instructor - [Dr. Karthik Mohan](https://www.ece.uw.edu/people/karthik-mohan/)
+### Instructor - [Dr. Karthik Mohan](https://www.ece.uw.edu/people/karthik-mohan/)
 
 ***
 
 ### Course Syllabus
+
+***
 
 1. Introduction and Applications
 1. Baseline models for Recommender Systems
@@ -28,6 +30,8 @@
 
 ### Course Assesments
 
+***
+
 1. Conceptual Assignments
 1. Programming Assignments
 1. Final project (open ended)
@@ -37,6 +41,9 @@
 
 
 ### Guest Lectures
+
+*** 
+
 1. Khalifeh Al Jadda (Director at Google). [YouTube Lecture Recording](https://www.youtube.com/watch?v=5Pa9NN_uRYg&t=1s)
 
 
