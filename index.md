@@ -41,6 +41,13 @@
 
 ***
 
+| Lecture | Lecture Topic | Annotated Lecture |
+| :--- | :----: | :---: |
+| 1 | Introduction | |
+| 2 | Baseline Models | |
+| 3 | Matrix Factorization Models | |
+| 4 | | |
+
 ### Guest Lectures
 
 *** 
