@@ -24,9 +24,14 @@
 | Lecture | Lecture Topic | Annotated Lecture |
 | :--- | :----: | :---: |
 | 1 | Introduction | [Lecture 1](Lectures/Lecture_1_annotated.pdf) |
-| 2 | Recommender System Baselines | [Lecture 2](Lectures/Lecture_2_annotated.pdf |
-| 3 | SVD and other baselines | [Lecture 3](Lectures/Lecture_3_annotated.pdf) |
-| 4 | | |
+| 2 | Recommender System Types | [Lecture 2](Lectures/Lecture_2_annotated.pdf) |
+| 3 | SVD and similarity metrics | [Lecture 3](Lectures/Lecture_3_annotated.pdf) |
+| 4 | Matrix Factorization and completion  | [Lecture 4](Lectures/Lecture_4_annotated.pdf) |
+| 6 | SGD and Matrix Completion | [Lecture 6](Lectures/Lecture_6_annotated.pdf) |
+| 7 | Auto Grad and Auto Encoders | [Lecture 7](Lectures/Lecture_7_annotated.pdf) |
+| 8 | MLP for Product Recs | [Lecture 8](Lectures/Lecture_8_annotated.pdf) |
+| 9 | News Recommendations Case Study| [Lecture 9](Lectures/Lecture_9_annotated.pdf) |
+| 10 | Ranking and Recommendations | [Lecture 10] (Lectures/Lecture_10_annotated.pdf) |
 
 
 ### Guest Lectures
