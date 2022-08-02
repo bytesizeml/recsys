@@ -7,6 +7,18 @@
 
 ***
 
+### Course Syllabus
+
+1. Introduction and Applications
+1. Baseline models for Recommender Systems
+1. Matrix Factorization and Matrix Completion models
+2. Applications in product, movie and news recommendations
+2. Auto Encoder models - AutoRec, DeepRec, etc
+2. Multi Layer Perceptron and Deep Neural Network Models
+- Recommendations-Ranking Models
+- Applications and architecture of YouTube, Pinterest, Instagram recommendations
+- Search Ranking Models
+
 You can use the [editor on GitHub](https://github.com/bytesizeml/recsys/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
