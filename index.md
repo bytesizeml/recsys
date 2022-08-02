@@ -7,6 +7,11 @@
 
 ***
 
+
+## Instructor - [Dr. Karthik Mohan](https://www.ece.uw.edu/people/karthik-mohan/)
+
+***
+
 ### Course Syllabus
 
 1. Introduction and Applications
@@ -26,6 +31,9 @@
 1. Conceptual Assignments
 1. Programming Assignments
 1. Final project (open ended)
+
+
+### Lectures and Lecture Notes
 
 
 ### Guest Lectures
