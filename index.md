@@ -1,4 +1,6 @@
+
 # Recommendation Systems Course | Summer 2022 
+ 
 ## Professional Masters Program | University of Washinton, Seattle 
 
 You can use the [editor on GitHub](https://github.com/bytesizeml/recsys/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
