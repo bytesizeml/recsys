@@ -11,7 +11,7 @@
 
 ***
 
-| [Home](index.md)  | [Lectures](lectures.md)       | [Code Snippets](code_snippets.md)      |
+| [Home](index.md)  | [Lectures](lectures.md)       | [Code Snippets](code_snippets.md)      | [About me](karthik.md) |
 
 
 ***
