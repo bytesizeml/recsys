@@ -18,6 +18,12 @@
 
 ***
 
+### Lecture Dates
+1. Monday: 6 pm - 8 pm PST
+1. Wednesday 4 pm - 6 pm PST
+
+Lectures go from June - August 2022 (last lecture is August 14th 2022)
+
 ### Course Syllabus
 
 ***
