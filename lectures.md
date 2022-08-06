@@ -32,7 +32,7 @@
 | 8 | MLP for Product Recs | [Lecture 8](Lectures/Lecture_8_annotated.pdf) |
 | 9 | News Recommendations Case Study| [Lecture 9](Lectures/Lecture_9_annotated.pdf) |
 | 10 | Ranking and Recommendations | [Lecture 10](Lectures/Lecture_10_annotated.pdf) |
-| 11 | Ranking metrics | [Lecture 10](Lectures/Lecture_11_annotated.pdf) |
+| 11 | Ranking metrics | [Lecture 11](Lectures/Lecture_11_annotated.pdf) |
 
 
 ### Guest Lectures
