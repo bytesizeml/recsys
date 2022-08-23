@@ -11,7 +11,7 @@
 
 ***
 
-| [Home](index.md)  | [Lectures](lectures.md)       | [Code Snippets](code_snippets.md)      | [About me](karthik.md) |
+| [Home](index.md)  | [Lectures](lectures.md)   | [About me](karthik.md) |
 
 
 ***
@@ -40,9 +40,8 @@
 *** 
 
 1. Khalifeh Al Jadda (Director at Google). <a href="https://www.youtube.com/watch?v=5Pa9NN_uRYg&t=1s" target="_blank">YouTube Lecture Recording!</a>
+1. Kunal Shah (Engg Manager at DoorDash). <a href="https://www.youtube.com/watch?v=cIuu26yCQQ0&t=1s" target="_blank">YouTube Lecture Recording!</a>
 
 
-
-### References
 
 
