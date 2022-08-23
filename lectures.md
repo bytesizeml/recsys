@@ -39,8 +39,8 @@
 
 *** 
 
-1. Khalifeh Al Jadda (Director at Google). <a href="https://www.youtube.com/watch?v=5Pa9NN_uRYg&t=1s" target="_blank">YouTube Lecture Recording!</a>
-1. Kunal Shah (Engg Manager at DoorDash). <a href="https://www.youtube.com/watch?v=cIuu26yCQQ0&t=1s" target="_blank">YouTube Lecture Recording!</a>
+1. <a href="https://www.linkedin.com/in/khalifeh-al-jadda-ph-d-929a5020/" target="_blank">Khalifeh Al Jadda</a> (Director at Google). <a href="https://www.youtube.com/watch?v=5Pa9NN_uRYg&t=1s" target="_blank">YouTube Lecture Recording!</a>
+1. <a href="https://www.linkedin.com/in/kunal-shah-537b2457/" target="_blank">Kunal Shah</a> (Engg Manager at DoorDash). <a href="https://www.youtube.com/watch?v=cIuu26yCQQ0&t=1s" target="_blank">YouTube Lecture Recording!</a>
 
 
 
