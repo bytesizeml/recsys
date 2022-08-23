@@ -33,6 +33,8 @@
 | 9 | News Recommendations Case Study| [Lecture 9](Lectures/Lecture_9_annotated.pdf) |
 | 10 | Ranking and Recommendations | [Lecture 10](Lectures/Lecture_10_annotated.pdf) |
 | 11 | Ranking metrics | [Lecture 11](Lectures/Lecture_11_annotated.pdf) |
+| 12 | Ranking Loss Functions | [Lecture 12] (Lectures/Lecture_12_annotated.pdf) |
+| 13 | Course Wrap Up | [Lecture 13] (Lectures/Lecture_13_annotated.pdf) |
 
 
 ### Guest Lectures
